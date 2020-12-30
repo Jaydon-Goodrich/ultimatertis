@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ultimatertis/static/css/main.50b3515d.chunk.css",
+    "main.js": "/ultimatertis/static/js/main.2b9b6ecc.chunk.js",
+    "main.js.map": "/ultimatertis/static/js/main.2b9b6ecc.chunk.js.map",
+    "runtime~main.js": "/ultimatertis/static/js/runtime~main.bf91b1a6.js",
+    "runtime~main.js.map": "/ultimatertis/static/js/runtime~main.bf91b1a6.js.map",
+    "static/js/2.6bca96ea.chunk.js": "/ultimatertis/static/js/2.6bca96ea.chunk.js",
+    "static/js/2.6bca96ea.chunk.js.map": "/ultimatertis/static/js/2.6bca96ea.chunk.js.map",
+    "index.html": "/ultimatertis/index.html",
+    "precache-manifest.ae08d36633897281880fcde770d027b7.js": "/ultimatertis/precache-manifest.ae08d36633897281880fcde770d027b7.js",
+    "service-worker.js": "/ultimatertis/service-worker.js",
+    "static/css/main.50b3515d.chunk.css.map": "/ultimatertis/static/css/main.50b3515d.chunk.css.map"
+  }
+}
