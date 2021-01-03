@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77c3b1220a09d42edca9961da84694d3",
+    "revision": "68a49fa9128d4bdadc11f391fc52b3c8",
     "url": "/ultimatertis/index.html"
   },
   {
-    "revision": "9c65dc3683bf5e27c4ae",
+    "revision": "a8e947441d96a6ae6b43",
     "url": "/ultimatertis/static/css/main.50b3515d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ultimatertis/static/js/2.6bca96ea.chunk.js"
   },
   {
-    "revision": "9c65dc3683bf5e27c4ae",
-    "url": "/ultimatertis/static/js/main.2b9b6ecc.chunk.js"
+    "revision": "a8e947441d96a6ae6b43",
+    "url": "/ultimatertis/static/js/main.d36bc72c.chunk.js"
   },
   {
     "revision": "01ecf323345a74da78f9",

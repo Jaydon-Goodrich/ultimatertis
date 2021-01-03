@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ultimatertis/precache-manifest.ae08d36633897281880fcde770d027b7.js"
+  "/ultimatertis/precache-manifest.2f9832176afda43b9f0aeb2a085727a9.js"
 );
 
 self.addEventListener('message', (event) => {
